@@ -1,0 +1,14 @@
+{
+  "name": "NodeSonosTtsWeather2",
+  "version": "1.0.0",
+  "description": "A script that make my Sonos talk about the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "polo",
+  "license": "ISC",
+  "dependencies": {
+    "sonos": "^0.7.0"
+  }
+}
